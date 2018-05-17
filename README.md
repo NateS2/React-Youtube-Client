@@ -24,3 +24,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 # React-Youtube-Client
+code was made while following Stephen Griders course on react
